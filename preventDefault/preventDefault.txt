@@ -1,0 +1,2 @@
+Event.preventDefault() => this event function doesn't allow the defaut functionalities to happen and prevents them.
+here Event(e) is an event objects which gives us all the infomation about the events, their properties also hleps us to manipulate them.
