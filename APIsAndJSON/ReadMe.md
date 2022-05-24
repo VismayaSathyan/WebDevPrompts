@@ -2,7 +2,7 @@ Today I started with APIs and JSON.
 Will keep on updating this file as and when I learn something new and interesting about them.
 Will be adding on new codes and projects whenever I get time to create something fun with APIs and JS.
 
-The first example her I have used the swapi API to get the practicality of APIs and JSON works.
+The first example here, I have used the swapi API to get the practicality of APIs and JSON works.
 To understand how requests were sent originally, I have used XMLHttpsRequests method in JS.
 It sure is a lot of code.
 
