@@ -5,13 +5,14 @@ Will be adding on new codes and projects whenever I get time to create something
 The first example here, I have used the swapi API to get the practicality of APIs and JSON works.
 To understand how requests were sent originally, I have used XMLHttpsRequests method in JS.
 It sure is a lot of code.
+It doesn't support Async functions and Promises which puts us into a peril of callbacks. 
 
 APIs
 
 Application programming interfaces, or APIs, simplify software development and innovation 
 by enabling applications to exchange data and functionality easily and securely.
 
-A Web API is a developer's dream.
+A Web API are very useful
 Because,
 a. It can extend the functionality of the browser
 b. It can greatly simplify complex functions
